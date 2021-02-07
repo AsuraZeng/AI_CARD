@@ -1,5 +1,6 @@
 应用软件开发指南
 https://support.huaweicloud.com/cann/
+https://www.huaweicloud.com/ascend/resources/CodeSamples
 
 成长地图:
 01-软件安装

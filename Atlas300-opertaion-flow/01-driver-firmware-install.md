@@ -38,3 +38,5 @@ npu-smi info
 
 # reference:
 (Atlas 300I 推理卡 用户指南 型号:3010 13)[https://support.huawei.com/enterprise/zh/doc/EDOC1100079287/f9a811bc#ZH-CN_TOPIC_0252103982]
+
+doc/软件安装指南 (开发&运行场景, 通过命令行方式).pdf

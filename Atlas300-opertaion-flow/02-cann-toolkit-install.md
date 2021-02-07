@@ -27,3 +27,5 @@ install_path=/usr/local/Ascend #请用户根据实际路径修改export PATH=${i
 #参考
 https://support.huaweicloud.com/instg-cli-cann/atlascli_03_0026.html
 instg-cli-cann.pdf
+
+doc/软件安装指南 (开发&运行场景, 通过命令行方式).pdf
